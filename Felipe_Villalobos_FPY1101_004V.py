@@ -4,7 +4,7 @@ import datetime
 ventas = []
 
 vinilos_info = {
-    "linda": {"precio": 5000, "artista": "miguel bose", "estilo": "romantica", "tipo": "aventura"},
+    "linda": {"precio": 5000, "artista": "miguel bose", "estilo": "romantica"},
     "atado a tu amor": {"precio": 6000, "artista": "chayanne", "estilo": "romantica"},
     "un verano sin ti": {"precio": 4990, "artista": "bad bunny", "estilo": "regaeton"},
     "el ultimo baile": {"precio": 3990, "artista": "trueno", "estilo": "rap"},
